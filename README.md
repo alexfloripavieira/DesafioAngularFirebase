@@ -45,15 +45,3 @@ onSubmit() {
 
 * working Firebase backend Database storage of customer orders
 
-## :clipboard: Status & To-Do List
-
-* Status: Working
-* To-Do:  Improve: add quantity of items
-
-## :clap: Inspiration
-
-* [Dayana Jabif of Angular Templates: Angular CRUD with Firebase](https://angular-templates.io/tutorials/about/angular-crud-with-firebase)
-
-## :envelope: Contact
-
-* Repo created by [ABateman](https://www.andrewbateman.org) - you are welcome to [send me a message](https://andrewbateman.org/contact)
